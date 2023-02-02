@@ -1,0 +1,151 @@
+[
+    {
+        "img": "argentina.png",
+        "options": ["finland", "argentina", "tunisia"],
+        "right_answer": "argentina"
+    },
+
+    {
+        "img": "albania.png",
+        "options": ["albania", "iraq", "monaco"],
+        "right_answer": "albania"
+    },
+
+    {
+        "img": "belgium.png",
+        "options": ["finland", "belgium", "nigeria"],
+        "right_answer": "belgium"
+    },
+
+    {
+        "img": "egypt.png",
+        "options": ["egypt", "norway", "serbia"],
+        "right_answer": "egypt"
+    },
+
+    {
+        "img": "ireland.png",
+        "options": ["ivory coast", "north macedonia", "ireland"],
+        "right_answer": "ireland"
+    },
+
+    {
+        "img": "finland.png",
+        "options": ["finland", "argentina", "portugal"],
+        "right_answer": "finland"
+    },
+
+    {
+        "img": "france.png",
+        "options": ["france", "monaco", "mexico"],
+        "right_answer": "france"
+    },
+
+    {
+        "img": "georgia.png",
+        "options": ["jamaica", "georgia", "lebanon"],
+        "right_answer": "georgia"
+    },
+
+    {
+        "img": "greece.png",
+        "options": ["greece", "argentina", "tunisia"],
+        "right_answer": "greece"
+    },
+
+    {
+        "img": "india.png",
+        "options": ["india", "norway", "malta"],
+        "right_answer": "india"
+    },
+
+    {
+        "img": "iraq.png",
+        "options": ["poland", "iraq", "egypt"],
+        "right_answer": "iraq"
+    },
+
+    {
+        "img": "jamaica.png",
+        "options": ["lithuania", "morocco", "jamaica"],
+        "right_answer": "argentina"
+    },
+
+    {
+        "img": "lebanon.png",
+        "options": ["lithuania", "albania", "lebanon"],
+        "right_answer": "lebanon"
+    },
+
+    {
+        "img": "lithuania.png",
+        "options": ["latvia", "portugal", "lithuania"],
+        "right_answer": "lithuania"
+    },
+
+    {
+        "img": "north macedonia.png",
+        "options": ["north macedonia", "lithuania", "norway"],
+        "right_answer": "north macedonia"
+    },
+
+    {
+        "img": "monaco.png",
+        "options": ["poland", "monaco", "tunisia"],
+        "right_answer": "monaco"
+    },
+
+    {
+        "img": "morocco.png",
+        "options": ["monaco", "morocco", "india"],
+        "right_answer": "morocco"
+    },
+
+    {
+        "img": "malta.png",
+        "options": ["malta", "monaco", "poland"],
+        "right_answer": "malta"
+    },
+
+    {
+        "img": "mexico.png",
+        "options": ["norway", "serbia", "mexico"],
+        "right_answer": "mexico"
+    },
+
+    {
+        "img": "nigeria.png",
+        "options": ["lithuania", "lebanon", "nigeria"],
+        "right_answer": "nigeria"
+    },
+
+    {
+        "img": "norway.png",
+        "options": ["jamaica", "denmark", "norway"],
+        "right_answer": "norway"
+    },
+
+    {
+        "img": "poland.png",
+        "options": ["monaco", "poland", "malta"],
+        "right_answer": "poland"
+    },
+
+    {
+        "img": "portugal.png",
+        "options": ["portugal", "iraq", "argentina"],
+        "right_answer": "portugal"
+    },
+
+    {
+        "img": "serbia.png",
+        "options": ["serbia", "monaco", "finland"],
+        "right_answer": "serbia"
+    },
+
+    {
+        "img": "tunisia.png",
+        "options": ["turkey", "tunisia", "norway"],
+        "right_answer": "tunisia"
+    }
+]
